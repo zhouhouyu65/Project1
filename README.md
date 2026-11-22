@@ -1,11 +1,10 @@
 # Project 1 · NumPy Image Encoder — 数值计算作业
 
-深圳大学《Python 程序设计》Project 1（NumPy 数值计算练习）实验作业完整提交物。
-仅依赖 **Python + NumPy**，全部结果由计算得到，未写死任何数值；代码含文档字符串与逐行注释。
+
 
 ## GitHub 仓库
 
-> 请将本目录推送到你的 GitHub 仓库，并把仓库链接填入实验报告封面。
+
 
 ```bash
 git init
